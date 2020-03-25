@@ -1,1 +1,2 @@
-# exploratory_analysis
+### Problem Statement
+![Problem Statement](Problem_summary.png)
